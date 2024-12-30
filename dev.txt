@@ -1,0 +1,4 @@
+this is for dev
+ git checkout (branch name) :for switch the branch
+ git branch : for check how many branchs 
+ git branch (branch name): making new branch
